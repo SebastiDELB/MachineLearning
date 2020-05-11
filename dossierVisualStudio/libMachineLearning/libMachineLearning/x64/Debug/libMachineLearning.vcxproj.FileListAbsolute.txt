@@ -1,0 +1,2 @@
+C:\Users\sebas\source\repos\libMachineLearning\x64\Debug\libMachineLearning.pdb
+C:\Users\sebas\source\repos\libMachineLearning\libMachineLearning\x64\Debug\libMachineLearning.pdb
